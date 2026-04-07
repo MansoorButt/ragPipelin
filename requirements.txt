@@ -1,3 +1,4 @@
+pinecone
 pydantic
 azure-core
 langchain-pinecone
